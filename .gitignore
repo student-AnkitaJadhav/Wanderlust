@@ -1,0 +1,4 @@
+ECHO is on.
+.env
+classroom/
+node_modules/
